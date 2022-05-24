@@ -1,0 +1,35 @@
+.chart {
+  margin-top: 3rem;
+  padding: 0rem 2rem;
+  border-radius: 5px;
+}
+.customChart {
+  padding: 0rem 1rem;
+}
+.customChart .col-4,
+.customChart .col-8 {
+  padding-top: 2rem;
+}
+
+.customChart .col-4 {
+  height: inherit;
+  padding-left: 3rem;
+}
+
+.countLessons {
+  margin-top: 2rem;
+}
+.countLessons .totalCount {
+  margin-bottom: 2rem;
+}
+.countLessons .lessonsPerSchool {
+  margin-bottom: 0.5rem;
+  display: flex;
+}
+.countLessons .lessonsPerSchool i {
+  margin: 0rem 0.5rem;
+}
+.lessonsPerSchool p,
+.lessonsPerSchool h4 {
+  margin: 0;
+}
